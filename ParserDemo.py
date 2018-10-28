@@ -17,5 +17,3 @@ elif args.verbose:
 else:
     print("{}^{} == {}".format(args.x, args.y, answer))
 
-
-# will be deleted
